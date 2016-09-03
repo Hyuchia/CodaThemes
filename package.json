@@ -1,29 +1,30 @@
 {
-  "name": "prism-coda",
+  "name": "coda-themes",
   "version": "0.1.0",
-  "description": "Prism Coda Theme",
+  "description": "Coda Theme Ports",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HyuchiaDiego/PrismCodaTheme.git"
+    "url": "git+https://github.com/HyuchiaDiego/CodaThemes.git"
   },
   "keywords": [
     "prism",
     "theme",
     "coda",
     "highlight",
-    "code"
+    "code",
+    "gtk",
+    "gtksourceview"
   ],
   "author": "Diego Islas Ocampo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HyuchiaDiego/PrismCodaTheme/issues"
+    "url": "https://github.com/HyuchiaDiego/CodaThemes/issues"
   },
-  "homepage": "https://github.com/HyuchiaDiego/PrismCodaTheme",
+  "homepage": "https://github.com/HyuchiaDiego/CodaThemes",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-cssnano": "^2.1.0",
-    "gulp-header": "^1.7.1",
     "gulp-rename": "^1.2.2"
   }
 }

@@ -1,3 +1,9 @@
-# Prism Coda Theme
+# Coda Themes
 
-A prism syntax highlightning theme based on Coda's bright theme.
+A collection of ports of the Bright Coda theme from Panic's Coda to other tools.
+
+## Current Ports:
+
+* Prism JS
+* GTKSourceView
+
